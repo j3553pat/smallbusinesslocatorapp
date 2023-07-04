@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "name": "Reverie Books",
+        "description": "Indie Bookstore dedicated to community in Austin, TX",
+        "Address": "5330 Menchaca Rd Ste D, Austin, TX 78745",
+        "hours": "11AM - 7PM"
+    }, 
+    {
+        "id": 1,
+        "name": "BookWoman",
+        "description": "Specializing in books by & about women, this indie shop also offers t-shirts, gifts & events.",
+        "Address": "5501 N Lamar Blvd #A-105, Austin, TX 78751",
+        "hours": "10AM - 7PM"
+    },
+    {
+        "id": 2,
+        "name": "The Little Gay Shop",
+        "description": "The Little Gay Shop is a queer marketplace selling art, apparel, books, magazines and much more from exclusively queer artists!",
+        "Address": "828 Airport Blvd. Austin, TX 78702",
+        "hours": "12PM - 5PM"
+    },
+    {
+        "id": 3,
+        "name": "Monkeywrench Books",
+        "description": "Insurgent literature for aspiring partisans",
+        "Address": "110 N Loop Blvd E, Austin, TX 78751",
+        "hours": "12PM - 8PM"
+    },
+    {
+        "id": 4,
+        "name": "BookPeople",
+        "description": "Large, locally owned bookstore with regular readings plus coffee bar & quirky gift items for sale.",
+        "Address": "603 N Lamar Blvd, Austin, TX 78703",
+        "hours": "9AM - 9PM"
+    },
+    {
+        "id": 5,
+        "name": "South Congress Books",
+        "description": "Small arty shop selling used & vintage books plus posters & rare volumes in mellow surroundings.",
+        "Address": "3703 Kerbey Ln, Austin, TX 78731",
+        "hours": "11AM - 6PM"
+    }
+]
