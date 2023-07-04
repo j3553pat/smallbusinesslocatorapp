@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/smallbusinesslocatorapp/static/css/main.e6c13ad2.css",
+    "main.js": "/smallbusinesslocatorapp/static/js/main.23b0810d.js",
+    "static/js/787.bd3a463d.chunk.js": "/smallbusinesslocatorapp/static/js/787.bd3a463d.chunk.js",
+    "static/media/googlemap.jpg": "/smallbusinesslocatorapp/static/media/googlemap.620b296ddc2215f0ef92.jpg",
+    "index.html": "/smallbusinesslocatorapp/index.html",
+    "main.e6c13ad2.css.map": "/smallbusinesslocatorapp/static/css/main.e6c13ad2.css.map",
+    "main.23b0810d.js.map": "/smallbusinesslocatorapp/static/js/main.23b0810d.js.map",
+    "787.bd3a463d.chunk.js.map": "/smallbusinesslocatorapp/static/js/787.bd3a463d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.23b0810d.js"
+  ]
+}
